@@ -51,3 +51,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+gem 'semantic-ui-sass'
+gem 'jquery-rails'
